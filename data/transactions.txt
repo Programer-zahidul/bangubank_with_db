@@ -1,0 +1,5 @@
+name,email,amount,transfer_type,reg_date
+Test Name,test@dot.com,10,received,2024-08-22 16:29:30
+Al nahian,nahian@dot.com,10,sent,2024-08-22 16:29:30
+Test Name,test@dot.com,30,received,2024-08-22 21:30:27
+Al nahian,nahian@dot.com,30,sent,2024-08-22 21:30:27
